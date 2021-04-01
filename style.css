@@ -1,0 +1,20 @@
+body {
+ background-color: midnightblue;
+    color: mediumpurple;
+}
+img {
+  border-radius: 20px;
+    border-color: mediumpurple;
+}
+h1 {
+  color: pu;
+  margin-left: 20px;
+}
+.header {
+padding: 0,009px;
+text-align: center;
+background-color: mediumpurple;
+color: midnightblue;
+font-size: 30px;
+}
+
